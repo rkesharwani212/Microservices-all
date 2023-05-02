@@ -1,0 +1,11 @@
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.deps.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.runtimeconfig.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.runtimeconfig.dev.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.AssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\bin\Debug\netcoreapp2.1\RabbitMQProducer.pdb
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.pdb
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\New folder\RabbitMQProducer\RabbitMQProducer\obj\Debug\netcoreapp2.1\RabbitMQProducer.csprojAssemblyReference.cache

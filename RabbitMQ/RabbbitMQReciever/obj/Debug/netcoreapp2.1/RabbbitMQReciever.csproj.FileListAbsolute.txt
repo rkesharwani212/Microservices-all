@@ -1,0 +1,10 @@
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\bin\Debug\netcoreapp2.1\RabbbitMQReciever.deps.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\bin\Debug\netcoreapp2.1\RabbbitMQReciever.runtimeconfig.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\bin\Debug\netcoreapp2.1\RabbbitMQReciever.runtimeconfig.dev.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\bin\Debug\netcoreapp2.1\RabbbitMQReciever.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\obj\Debug\netcoreapp2.1\RabbbitMQReciever.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\obj\Debug\netcoreapp2.1\RabbbitMQReciever.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\obj\Debug\netcoreapp2.1\RabbbitMQReciever.AssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\bin\Debug\netcoreapp2.1\RabbbitMQReciever.pdb
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\obj\Debug\netcoreapp2.1\RabbbitMQReciever.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQReciever\obj\Debug\netcoreapp2.1\RabbbitMQReciever.pdb

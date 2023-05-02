@@ -1,0 +1,14 @@
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.deps.json
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.json
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.runtimeconfig.dev.json
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.dll
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csprojAssemblyReference.cache
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.AssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\bin\Debug\netcoreapp2.1\WebApplication1.pdb
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.dll
+D:\ASP.NET CORE\Assignment-microservices\WebApplication1\WebApplication1\obj\Debug\netcoreapp2.1\WebApplication1.pdb

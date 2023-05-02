@@ -1,0 +1,27 @@
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.deps.json
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.runtimeconfig.json
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.runtimeconfig.dev.json
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.dll
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.AssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.pdb
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.dll
+D:\ASP.NET CORE\Assignment-microservices\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.pdb
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.deps.json
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.runtimeconfig.json
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.runtimeconfig.dev.json
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.dll
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\bin\Debug\netcoreapp2.1\ApiGateWay.pdb
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.csprojAssemblyReference.cache
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.csproj.CoreCompileInputs.cache
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorAssemblyInfo.cache
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorAssemblyInfo.cs
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.AssemblyInfoInputs.cache
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.AssemblyInfo.cs
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.RazorTargetAssemblyInfo.cache
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.dll
+D:\Microservices\Assignment-microservices\Eureka\ApiGateWay\ApiGateWay\obj\Debug\netcoreapp2.1\ApiGateWay.pdb

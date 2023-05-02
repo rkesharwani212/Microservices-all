@@ -1,0 +1,13 @@
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\bin\Debug\netcoreapp2.1\RabbbitMQProducer.deps.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\bin\Debug\netcoreapp2.1\RabbbitMQProducer.runtimeconfig.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\bin\Debug\netcoreapp2.1\RabbbitMQProducer.runtimeconfig.dev.json
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\bin\Debug\netcoreapp2.1\RabbbitMQProducer.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.csproj.CoreCompileInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.RazorAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.RazorAssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.AssemblyInfoInputs.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.AssemblyInfo.cs
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.RazorTargetAssemblyInfo.cache
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\bin\Debug\netcoreapp2.1\RabbbitMQProducer.pdb
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.dll
+D:\ASP.NET CORE\Assignment-microservices\RabbitMQ\RabbbitMQProducer\obj\Debug\netcoreapp2.1\RabbbitMQProducer.pdb
